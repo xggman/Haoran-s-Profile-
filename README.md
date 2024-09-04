@@ -28,6 +28,3 @@ Big Data Service and Application, 2022: Real – Time Detection of Objects on Ro
 ### Let's Connect
 * 🌐 [LinkedIn - Haoran Shi](https://www.linkedin.com/in/haoran-shi-55561113a/)
 * 📧 [Send a Signal](has184669@gmail.com)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xggman)](https://github.com/anuraghazra/github-readme-stats)
