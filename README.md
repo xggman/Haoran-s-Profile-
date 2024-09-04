@@ -18,16 +18,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Spotlight Projects
-
-* 🛡️ **GGTAN: Advanced Fraud Detection with Graph Neural Network in Financial Transactions** <br>
+### Publication 
+* 🛡️ **8th IEEE International Conference on
+Big Data Service and Application, 2022: Real – Time Detection of Objects on Roads for Autonomous Vehicles Using Deep Learning** <br>
   Enhanced GTAN with GAT for fraud detection, increasing F1-Score by 6.9\% and AUC by 8.0% - achieving SOTA performance. <br>
-[Github Repository](https://github.com/bertmclee/antifraud) | [Project Report](https://drive.google.com/file/d/1P_loGSXID4GVcWVcSwu6gA3n2Bqn8ElX/view?usp=sharing)
+[link](https://ieeexplore.ieee.org/document/9898160) 
 
+### Spotlight Projects
 * 🤖 **Automated Text Data Generation with LLMs for Classification Problems** <br>
   Utilized LLAMA2 for data generation and BERT for validation, crafting datasets with a balance of diversity and accuracy comparable to human-labeled data. <br>
 [Github Repository](https://github.com/bertmclee/DataGenLLM) | [Project Report](https://drive.google.com/file/d/1BCMh4daiHL5twuxNbU1UQcLEd9n73VR5/view?usp=sharing)
 
 ### Let's Connect
-* 🌐 [LinkedIn - Bert Lee](https://www.linkedin.com/in/bertmclee/)
-* 📧 [Send a Signal](mailto:muchia272@gmail.com)
+* 🌐 [LinkedIn - Haoran Shi](https://www.linkedin.com/in/haoran-shi-55561113a/)
+* 📧 [Send a Signal](has184669@gmail.com)
